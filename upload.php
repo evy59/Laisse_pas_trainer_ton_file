@@ -56,3 +56,4 @@ if (!empty($_FILES['files']['name'][0])){
     }
 }
 
+?>
